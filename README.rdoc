@@ -3,26 +3,38 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
+Link to heroku app: https://flutterprasaadem.herokuapp.com
+
 Things you may want to cover:
 
-* Ruby version
+* Ruby Version: 2.3.0p0 Rails Version: 4.2.5
 
-* System dependencies
+* git clone https://github.com/prasaadem/flutter.git
 
-* Configuration
+* bundle install
 
-* Database creation
+* rake db:migrate
 
-* Database initialization
+Summary
 
-* How to run the test suite
+This application is a Twitter clone and is a part of the tutorial series I watched to practise Ruby on Rails. Below are the functionalities of this app
 
-* Services (job queues, cache servers, search engines, etc.)
+* Login Page
 
-* Deployment instructions
+* Signup Page
 
-* ...
+* Home Page
+
+* Profile Page
+
+* Add Post Page
+
+* View Posts Page
+
+* Explore Page
+
+Credits: DevFactor "https://www.youtube.com/channel/UC2vVVgKKzN-Gb_xeaUY0o-Q"
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+
+User login: examplecas1@tamu.edu Password: ****
