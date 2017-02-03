@@ -35,6 +35,3 @@ This application is a Twitter clone and is a part of the tutorial series I watch
 
 Credits: DevFactor "https://www.youtube.com/channel/UC2vVVgKKzN-Gb_xeaUY0o-Q"
 
-
-
-User login: examplecas1@tamu.edu Password: ****
